@@ -1,0 +1,35 @@
+** start of undefined **
+
+<link rel="stylesheet" href="styles.css">
+<main id="main">
+    <h1 id="title">Somebody Feed Phil</h1>
+      <div id="img-div">
+ <img id="image" src="https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/article_1200_800/public/2021-03/SomebodyFeedPhil_Season4_Rio%20de%20Janeiro_00_01_10_06.jpg.webp?itok=c8c_-z2e"</img>
+    <div <h2 id="img-caption"> </h2>
+    phil picture</h2>
+    </div>
+     </div>
+  
+    
+    <div id="tribute-info">
+      <p>Phil Rosenthal is a talker. And when you get him going on his two biggest passions, food and travel, the conversation can leave you laughing, endlessly curious about the world, and really, really hungry. As the inimitable host of the hit Netflix food and travel show, Somebody Feed Phil, Rosenthal has taken his ever-positive persona around the globe in search of the best things to eat, and with a mission to get you off your couch and to explore the planet. - www.finedininglovers.com </p>
+    
+      <p> Season 6 coming to <a id="tribute-link" href="https://www.netflix.com/gb/title/80146601" target="_blank">Netflix October 2022</a>  <p>
+        <p>Love the series?, pre-order the book</p>
+    </div>
+    </main>
+
+** end of undefined **
+
+** start of undefined **
+
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%
+}
+
+** end of undefined **
+
