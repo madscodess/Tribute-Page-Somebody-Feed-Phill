@@ -3,6 +3,6 @@
 
 Tribute Page created for FreeCodeCamp project 
 
-![ScreenShot](/screenshots/desktop.png)
+![ScreenShot](/desktop.png)
 
-![ScreenShot](/screenshots/mobile.png)
+![ScreenShot](/mobile.png)
