@@ -1,12 +1,11 @@
-# Tribute-Page
- Tribute Page to Somebody Feed Phil
+# Tribute-Page - Freecodecamp
 
-Tribute Page created for FreeCodeCamp project 
+Build a Tribute Page
 
-Desktop:
+Objective: Build a page that is functionally similar to this: https://codepen.io/freeCodeCamp/pen/zNqgVx
 
-![ScreenShot](/desktop.png)
+Source of the project can be found in freeCodeCamp curriculum.
 
-Mobile:
+Live preview of the page is [here](https://madscodess.github.io/Tribute-Page-Somebody-Feed-Phill/).
 
-![ScreenShot](/mobile.png)
+
